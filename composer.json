@@ -1,9 +1,6 @@
 {
-    "name": "splendidinternet/mage2-locale-de-de",
+    "name": "convidera/mage2-locale-de-de",
     "description": "German (Germany) language",
-    "license": [
-        "OSL-3.0"
-    ],
     "require": {
         "magento/framework": "^100.0.0 || ^101.0.0"
     },
