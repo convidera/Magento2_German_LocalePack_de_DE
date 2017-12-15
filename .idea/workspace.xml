@@ -2,7 +2,6 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="89c52ca4-cb27-435b-87e3-1d859ccd4668" name="Default" comment="">
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/.idea/workspace.xml" afterPath="$PROJECT_DIR$/.idea/workspace.xml" />
       <change type="MODIFICATION" beforePath="$PROJECT_DIR$/de_DE.csv" afterPath="$PROJECT_DIR$/de_DE.csv" />
     </list>
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
@@ -23,8 +22,8 @@
       <file leaf-file-name="de_DE.csv" pinned="false" current-in-tab="true">
         <entry file="file://$PROJECT_DIR$/de_DE.csv">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="399">
-              <caret line="5533" column="18" lean-forward="false" selection-start-line="5533" selection-start-column="18" selection-end-line="5533" selection-end-column="18" />
+            <state relative-caret-position="269">
+              <caret line="6452" column="29" lean-forward="false" selection-start-line="6452" selection-start-column="29" selection-end-line="6452" selection-end-column="29" />
               <folding />
             </state>
           </provider>
@@ -38,6 +37,8 @@
       <find>Zahlungspflichtig bestellen</find>
       <find>Zusammenfassung der Bestellung</find>
       <find>Ihre Bestellung</find>
+      <find>Warenkorb-Zwischensumme</find>
+      <find>Zur Kasse gehen</find>
     </findStrings>
   </component>
   <component name="Git.Settings">
@@ -119,12 +120,12 @@
       <option name="number" value="Default" />
       <option name="presentableId" value="Default" />
       <updated>1513341165219</updated>
-      <workItem from="1513341166939" duration="2765000" />
+      <workItem from="1513341166939" duration="6334000" />
     </task>
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="2765000" />
+    <option name="totallyTimeSpent" value="6334000" />
   </component>
   <component name="ToolWindowManager">
     <frame x="621" y="-1019" width="1920" height="973" extended-state="0" />
@@ -162,8 +163,8 @@
   <component name="editorHistoryManager">
     <entry file="file://$PROJECT_DIR$/de_DE.csv">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="399">
-          <caret line="5533" column="18" lean-forward="false" selection-start-line="5533" selection-start-column="18" selection-end-line="5533" selection-end-column="18" />
+        <state relative-caret-position="269">
+          <caret line="6452" column="29" lean-forward="false" selection-start-line="6452" selection-start-column="29" selection-end-line="6452" selection-end-column="29" />
           <folding />
         </state>
       </provider>
