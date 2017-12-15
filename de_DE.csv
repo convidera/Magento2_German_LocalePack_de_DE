@@ -1879,7 +1879,7 @@ Check out faster,Schneller zur Kasse gehen,,
 Check out now and earn %1 for this order.,Gehen Sie jetzt zur Kasse und erhalten Sie %1 für diese Bestellung.,,
 Check Out with Multiple Addresses,Checkout mit mehreren Adressen,,
 Check status and balance,Status und Guthaben überprüfen,,
-Check the status of orders,Überprüfen Sie den Status der Bestellungen,,
+Check the status of orders,Den Status der Bestellungen zu überprüfen,,
 Checkbox,ankreuzbare Kontrollfelder (Checkboxen),module,Magento_Bundle
 Checkbox Text,Checkbox-Text,,
 "Checked rows: %1, checked entities: %2, invalid rows: %3, total errors: %4","Geprüfte Zeilen: %1, geprüft Einheiten: %2, ungültige Zeilen: %3, Gesamtfehler: %4",,
@@ -4236,8 +4236,8 @@ Invalid date,Ungültiges Datum,,
 Invalid date specified,Ungültiges Datum angegeben,,
 Invalid default date,Ungültiges Standarddatum,,
 Invalid default decimal value,Ungültiger Standard-Dezimalwert,,
-"Invalid Document 
-Invalid domain name: 
+"Invalid Document
+Invalid domain name:
 Invalid order
 Invalid product list type
 Invalid RMA
@@ -5421,7 +5421,7 @@ Only implemented for configurable product: %1,Nur für konfigurierbare Produkte 
 Only Once (version upgrade),Nur einmal (Versionsupgrade),,
 Only Once (version upgrade),Nur einmal (Versionsupgrade),module,Magento_Config
 Only one RMA is available for printing,Nur eine RMA ist fürs Drucken verfügbar,,
-"Only registered users can write reviews. Please <a href=""%1"">Sign in</a> or <a href=""%2"">create an account</a>","Nur eingetragene Benutzer können Rezensionen schreiben. Bitte <a href=""%1"">Sign in</a> or <a href=""%2"">erstellen Sie einen Akkount</a>",module,Magento_Review
+"Only registered users can write reviews. Please <a href=""%1"">Sign in</a> or <a href=""%2"">create an account</a>","Nur eingetragene Benutzer können Rezensionen schreiben. Bitte <a href=""%1"">einloggen</a> oder <a href=""%2"">erstellen Sie einen Account</a>",module,Magento_Review
 "Only registered users can write reviews. Please, <a href=""%1"">Sign in</a> or <a href=""%2"">create an account</a>","Nur registrierte Kunden können Bewertungen abgeben. Bitte <a href=""%1"">einloggen</a> oder ein <a href=""%2"">Konto erstellen</a>",,
 Only the first 100 errors are shown.,Nur die ersten 100 Fehler werden gezeigt.,module,Magento_ImportExport
 Only the first 100 errors are shown. ,Nur die ersten 100 Fehler werden gezeigt.,module,Magento_ImportExport
@@ -6449,7 +6449,7 @@ Private Key,Privater Schlüssel,,
 Private Sales: Login and Register,Privatverkäufe: Anmelden und Registrieren,,
 Private Sales: Login Only,Privatverkäufe: Nur Anmelden,,
 Private Wish List,Privater Wunschzettel,,
-Proceed through checkout faster,Schneller durch den Checkout gelangen,,
+Proceed through checkout faster,Schneller durch den Checkout zu gelangen,,
 Proceed to Checkout,Zur Kasse gehen,,
 Process payments using your own internet merchant account.,Abwicklung von Zahlungen mit Ihrem eigenen Internet-Händler-Konto.,,
 Processed,Verarbeitet,,
@@ -7221,7 +7221,7 @@ Search Results,Suchergebnisse,,
 Search results for: '%1',"Suchergebnisse für: ""%1""",,
 Search Settings,Sucheinstellungen,,
 Search String,Suchbegriff,,
-"Search strings are either normal strings or regular exceptions (PCRE). They are matched in the same order as entered. 
+"Search strings are either normal strings or regular exceptions (PCRE). They are matched in the same order as entered.
 Examples: Firefox: /^mozilla/i","Suchbegriffe sind entweder normale Zeichenketten oder reguläre Ausdrücke (PCRE). Sie werden in der Reihenfolge verglichen, wie sie eingegeben werden. Beispiele: Firefox: /^mozilla/i",,
 "Search strings are either normal strings or regular exceptions (PCRE). They are matched in the same order as entered. Examples:<br /><span style=""""font-family:monospace"""">Firefox<br />/^mozilla/i</span>","Suchbegriffe sind entweder normale Strings oder reguläre Ausnahmen (PCRE). Sie werden in der gleichen Reihenfolge verglichen wie eingegeben. Beispiele: <br /> <span style = ""font-family: monospace""> Firefox <br />/^mozilla/i</span>",,
 "Search strings are either normal strings or regular exceptions (PCRE). They are matched in the same order as entered. Examples:<br /><span style=""font-family:monospace"">Firefox<br />/^mozilla/i</span>","Suchbegriffe sind entweder normale Strings oder reguläre Ausnahmen (PCRE). Sie werden in der gleichen Reihenfolge verglichen wie eingegeben. Beispiele: <br /> <span style = ""font-family: monospace""> Firefox <br />/^mozilla/i</span>",,
@@ -7926,9 +7926,9 @@ Storage key was not set,Speicherschlüssel wurde nicht gesetzt,,
 Storage Root,Hauptverzeichnis,,
 Store,Shop,,
 Store alternative addresses,Alternative Adressen des Shops,,
-Store alternative addresses (for shipping to multiple family members and friends),Alternative Adressen für den Shop (für den Versand an mehrere Familienmitglieder und Freunde),,
-Store alternative addresses (for shipping to multiple family members and friends),Alternative Adressen für den Shop (für den Versand an mehrere Familienmitglieder und Freunde),module,Magento_Customer
-Store alternative addresses (for shipping to multiple family members and friends),Alternative Adressen für den Shop (für den Versand an mehrere Familienmitglieder und Freunde),module,Magento_Theme
+Store alternative addresses (for shipping to multiple family members and friends),Alternative Adressen für den Shop anzugeben (für den Versand an mehrere Familienmitglieder und Freunde),,
+Store alternative addresses (for shipping to multiple family members and friends),Alternative Adressen für den Shop anzugeben (für den Versand an mehrere Familienmitglieder und Freunde),module,Magento_Customer
+Store alternative addresses (for shipping to multiple family members and friends),Alternative Adressen für den Shop anzugeben (für den Versand an mehrere Familienmitglieder und Freunde),module,Magento_Theme
 Store Contact Information,Shop-Kontaktinformationen,,
 Store Credit,Shop-Guthaben,,
 Store Credit Balance,Shopguthaben Kontostand,,
@@ -8377,7 +8377,7 @@ The message has been marked as Read.,Die Nachricht wurde als gelesen markiert.,,
 The message has been removed.,Die Nachricht wurde entfernt.,,
 The most money available to refund is %1.,Der maximal zur Verfügung stehende Betrag der Rückerstattung ist %1.,,
 The most you may purchase is %1.,Die Höchstmenge ist %1.,,
-"The New Relic integration requires the newrelic-php5 agent, which is not installed. More 
+"The New Relic integration requires the newrelic-php5 agent, which is not installed. More
                         information on installing the agent is available <a target=""_blank"" href=""%1"">here</a>.","""New Relic Integration benötigt den newrelic-php5 Agenten, der nicht installiert ist. Mehr Informationen über die Installation vom Agenten <a target=""_blank"" href=""%1"">hier</a>.",module,Magento_NewRelicReporting
 "The New Relic integration requires the newrelic-php5 agent, which is not installed. More information on installing the agent is available <a target=""_blank"" href=""%1"">here</a>.","Die New Relic-Integration erfordert den newrelic-php5 Stellvertreter, der nicht installiert ist. Weitere Informationen zur Installation <a target=""_blank"" href=""%1"">hier</a>.",,
 The newsletter template has been deleted.,Die Newsletter-Vorlage wurde gelöscht.,,
@@ -9412,7 +9412,7 @@ View Memo,Notiz anzeigen,,
 View Memo for #%1,Notiz anzeigen für #%1,,
 View Newsletter,Newsletter anzeigen,,
 View Order,Bestellung ansehen,,
-View past orders,Letzte Bestellungen ansehen,,
+View past orders,Letzte Bestellungen anzusehen,,
 View Product,Produkt ansehen,,
 View Return,Rückgabe ansehen,,
 View Sale,Verkauf ansehen,,
@@ -10454,4 +10454,3 @@ Zip/Post is Range,PLZ /Postleitzahl als Bereich,,
 Zip/Postal Code,Postleitzahl,,
 ZIP/Postal Code,PLZ/Postleitzahl,,
 Zip/Postal Code is Optional for,PLZ / Postleitzahl ist optional für,,
-Search products,Produkte suchen,,

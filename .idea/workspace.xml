@@ -2,6 +2,7 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="89c52ca4-cb27-435b-87e3-1d859ccd4668" name="Default" comment="">
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/.idea/workspace.xml" afterPath="$PROJECT_DIR$/.idea/workspace.xml" />
       <change type="MODIFICATION" beforePath="$PROJECT_DIR$/de_DE.csv" afterPath="$PROJECT_DIR$/de_DE.csv" />
     </list>
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
@@ -33,9 +34,10 @@
   </component>
   <component name="FindInProjectRecents">
     <findStrings>
+      <find>Bestellsumme</find>
       <find>Zahlungspflichtig bestellen</find>
       <find>Zusammenfassung der Bestellung</find>
-      <find>Bestellsumme</find>
+      <find>Ihre Bestellung</find>
     </findStrings>
   </component>
   <component name="Git.Settings">
@@ -117,12 +119,12 @@
       <option name="number" value="Default" />
       <option name="presentableId" value="Default" />
       <updated>1513341165219</updated>
-      <workItem from="1513341166939" duration="1157000" />
+      <workItem from="1513341166939" duration="2765000" />
     </task>
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="1157000" />
+    <option name="totallyTimeSpent" value="2765000" />
   </component>
   <component name="ToolWindowManager">
     <frame x="621" y="-1019" width="1920" height="973" extended-state="0" />
