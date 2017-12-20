@@ -8181,7 +8181,7 @@ Thank you for your order from %store_name.,Vielen Dank für Ihre Bestellung bei 
 Thank you for your purchase!,Vielen Dank für Ihren Einkauf!,,
 Thank you for your subscription.,Vielen Dank für Ihre Anmeldung.,,
 "Thank you,","Vielen Dank,",,
-"Thank you, %store_name","Vielen Dank, %store_name",,
+"Thank you, %store_name","Vielen Dank, Ihr %store_name Team",,
 Thanks for contacting us with your comments and questions. We'll respond to you very soon.,Vielen Dank für Ihre Kontaktaufnahme mit Ihren Kommentaren und Fragen. Wir werden Ihnen bald antworten.,,
 Thanks for your order. We'll email you order details and tracking information.,Vielen Dank für Ihre Bestellung. Wir werden Ihnen eine E-Mail mit Details und Tracking-Informationen zusenden.,,
 "Thanks,","Danke,",module,Magento_User
