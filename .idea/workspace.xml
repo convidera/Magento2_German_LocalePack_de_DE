@@ -2,7 +2,6 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="89c52ca4-cb27-435b-87e3-1d859ccd4668" name="Default" comment="">
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/.idea/workspace.xml" afterPath="$PROJECT_DIR$/.idea/workspace.xml" />
       <change type="MODIFICATION" beforePath="$PROJECT_DIR$/de_DE.csv" afterPath="$PROJECT_DIR$/de_DE.csv" />
     </list>
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
@@ -23,8 +22,8 @@
       <file leaf-file-name="de_DE.csv" pinned="false" current-in-tab="true">
         <entry file="file://$PROJECT_DIR$/de_DE.csv">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="81">
-              <caret line="10416" column="17" lean-forward="true" selection-start-line="10416" selection-start-column="17" selection-end-line="10416" selection-end-column="17" />
+            <state relative-caret-position="193">
+              <caret line="8186" column="38" lean-forward="true" selection-start-line="8186" selection-start-column="38" selection-end-line="8186" selection-end-column="38" />
               <folding />
             </state>
           </provider>
@@ -41,6 +40,8 @@
       <find>Warenkorb-Zwischensumme</find>
       <find>Zur Kasse gehen</find>
       <find>Ihre Bewertung</find>
+      <find>Vielen Dank,</find>
+      <find>Vielen Dank,</find>
     </findStrings>
   </component>
   <component name="Git.Settings">
@@ -60,8 +61,9 @@
     <sorting>DEFINITION_ORDER</sorting>
   </component>
   <component name="PhpWorkspaceProjectConfiguration" backward_compatibility_performed="true" />
-  <component name="ProjectFrameBounds" extendedState="6">
-    <option name="y" value="22" />
+  <component name="ProjectFrameBounds">
+    <option name="x" value="-3815" />
+    <option name="y" value="-361" />
     <option name="width" value="1280" />
     <option name="height" value="778" />
   </component>
@@ -123,15 +125,15 @@
       <updated>1513341165219</updated>
       <workItem from="1513341166939" duration="6334000" />
       <workItem from="1513785995465" duration="979000" />
-      <workItem from="1513800974854" duration="207000" />
+      <workItem from="1513800974854" duration="739000" />
     </task>
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="7520000" />
+    <option name="totallyTimeSpent" value="8052000" />
   </component>
   <component name="ToolWindowManager">
-    <frame x="0" y="22" width="1280" height="778" extended-state="6" />
+    <frame x="-3815" y="-361" width="1280" height="778" extended-state="0" />
     <editor active="true" />
     <layout>
       <window_info id="Project" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" show_stripe_button="true" weight="0.25" sideWeight="0.5" order="0" side_tool="false" content_ui="combo" />
@@ -182,8 +184,8 @@
     </entry>
     <entry file="file://$PROJECT_DIR$/de_DE.csv">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="81">
-          <caret line="10416" column="17" lean-forward="true" selection-start-line="10416" selection-start-column="17" selection-end-line="10416" selection-end-column="17" />
+        <state relative-caret-position="193">
+          <caret line="8186" column="38" lean-forward="true" selection-start-line="8186" selection-start-column="38" selection-end-line="8186" selection-end-column="38" />
           <folding />
         </state>
       </provider>
