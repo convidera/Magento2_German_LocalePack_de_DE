@@ -2,7 +2,8 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="d1965311-6c66-4bbd-b9dc-aece9e241793" name="Default" comment="">
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/de_DE.csv" afterPath="$PROJECT_DIR$/de_DE.csv" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/.gitignore" afterPath="$PROJECT_DIR$/.gitignore" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/.idea/workspace.xml" afterPath="$PROJECT_DIR$/.idea/workspace.xml" />
     </list>
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
     <option name="TRACKING_ENABLED" value="true" />
@@ -23,11 +24,11 @@
   </component>
   <component name="FileEditorManager">
     <leaf>
-      <file leaf-file-name="de_DE.csv" pinned="false" current-in-tab="true">
-        <entry file="file://$PROJECT_DIR$/de_DE.csv">
+      <file leaf-file-name=".gitignore" pinned="false" current-in-tab="true">
+        <entry file="file://$PROJECT_DIR$/.gitignore">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="2769">
-              <caret line="10471" column="80" lean-forward="false" selection-start-line="10471" selection-start-column="80" selection-end-line="10471" selection-end-column="80" />
+            <state relative-caret-position="145">
+              <caret line="5" column="0" lean-forward="true" selection-start-line="5" selection-start-column="0" selection-end-line="5" selection-end-column="0" />
               <folding />
             </state>
           </provider>
@@ -42,6 +43,7 @@
     <option name="CHANGED_PATHS">
       <list>
         <option value="$PROJECT_DIR$/de_DE.csv" />
+        <option value="$PROJECT_DIR$/.gitignore" />
       </list>
     </option>
   </component>
@@ -114,12 +116,12 @@
       <option name="number" value="Default" />
       <option name="presentableId" value="Default" />
       <updated>1518195401823</updated>
-      <workItem from="1518195403194" duration="93000" />
+      <workItem from="1518195403194" duration="153000" />
     </task>
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="93000" />
+    <option name="totallyTimeSpent" value="153000" />
   </component>
   <component name="ToolWindowManager">
     <frame x="1920" y="43" width="1920" height="1138" extended-state="0" />
@@ -159,6 +161,14 @@
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="2769">
           <caret line="10471" column="80" lean-forward="false" selection-start-line="10471" selection-start-column="80" selection-end-line="10471" selection-end-column="80" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/.gitignore">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="145">
+          <caret line="5" column="0" lean-forward="true" selection-start-line="5" selection-start-column="0" selection-end-line="5" selection-end-column="0" />
           <folding />
         </state>
       </provider>
