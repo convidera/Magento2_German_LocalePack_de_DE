@@ -9021,7 +9021,7 @@ Unable to save Cron expression,Cron-Ausdruck kann nicht gespeichert werden,,
 Unable to save file: %1,Speichern der Datei nicht möglich: % 1,,
 Unable to save product,Kann Produkt nicht speichern.,,
 Unable to save rule %1,Regel %1 kann nicht gespeichert werden,module,Magento_CatalogRule
-Unable to save shipping information. Please check input data.,Versandinformationen können nicht gespeichert werden. Überprüfen Sie bitte die Eingangsdaten.,module,Magento_Checkout
+Unable to save shipping information. Please check input data.,Nicht alle Angaben sind im korrekten Format und können daher nicht gespeichert werden. Bitte überprüfen Sie Ihre Email-Adresse und die Versandinformationen.,module,Magento_Checkout
 "Unable to save shipping information. Please, check input data.",Versandinformationen können nicht gespeichert werden. Bitte überprüfen Sie die eingegebenen Daten.,,
 Unable to save Stock,Der Bestand kann nicht gespeichert werden.,module,Magento_CatalogInventory
 Unable to save Stock Item,Die Lagerposition kann nicht gespeichert werden.,module,Magento_CatalogInventory
