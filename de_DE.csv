@@ -3752,7 +3752,7 @@ Gift Cards,Geschenkkarten,,
 Gift Certificate Payment: purchase of Gift Certificate,Geschenkgutscheinzahlung: Kauf eines Geschenkgutscheins,,
 Gift Certificate Redemption,Geschenkgutschein-Rücknahme,,
 Gift Message,Geschenknachricht,,
-Gift Message (optional),Geschenknachricht (optional),module,Magento_GiftMessage
+Gift Message (optional),Ihre persönliche Nachricht,module,Magento_GiftMessage
 Gift Message for the Entire Order,Geschenknachricht für die gesamte Bestellung,,
 Gift Message for this Order,Geschenknachricht für diese Bestellung,,
 Gift Message for This Order,Geschenknachricht zu dieser Bestellung,,
@@ -3764,8 +3764,8 @@ Gift Messages are not applicable for virtual products,Geschenk-Nachrichten entfa
 Gift Messages is not applicable for empty cart,Geschenk-Nachricht entfällt bei leerem Warenkorb,,
 Gift Messages is not applicable for empty order,Geschenk-Nachrichten gelten nicht für leere Bestellungen,,
 Gift Messages is not applicable for virtual products,Geschenk-Nachricht entfällt bei virtuellen Artikeln,,
-Gift Options,Geschenkoptionen,,
-Gift options,Geschenkoptionen,module,Magento_GiftMessage
+Gift Options,Ihre persönliche Nachricht,,
+Gift options,Ihre persönliche Nachricht,module,Magento_GiftMessage
 Gift Options for,Geschenkoptionen für,,
 Gift Options for,Geschenkoptionen für,module,Magento_Sales
 Gift Options for ,Geschenkoptionen für,module,Magento_Sales
@@ -10487,3 +10487,9 @@ Container image #1,Container Bild #1,,
 Container image #2,Container Bild #2,,
 Container image #3,Container Bild #3,,
 NSH Widget: Topic area,NSH Widget: Themenwelten,,
+"Please use the text fields below for questions and comments about your order.","Bitte nutzen Sie die nachstehenden Textfelder für Fragen und Anmerkungen zu Ihrer Bestellung.",,
+"You are also welcome to insert a personal message if your order is to be a gift.","Gerne können Sie auch eine persönliche Nachricht einfügen, wenn Ihre Bestellung ein Geschenk sein soll.",,
+"We appreciate your feedback.","Wir freuen uns über Ihr Feedback.",,
+Your message to us,Ihre Nachricht an uns,,
+Here you can pass messages and suggestions to us.,Hier können Sie Mitteilungen und Anregungen an uns weitergeben.,,
+Should the invoice not be included in the package if the delivery address is different because you want to give someone a present? Would you like to send a message in this case? Are you satisfied with our new shop? Please use the following text field!,Soll die Rechnung bei abweichender Lieferanschrift nicht ins Paket gelegt werden, weil Sie jemanden beschenken möchten? Möchten Sie in diesem Fall eine Mitteilung senden? Sind Sie mit unserem neuen Shop zufrieden? Nutzen Sie bitte das nachstehende Textfeld!,,
