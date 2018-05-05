@@ -1,3 +1,5 @@
+Please enter a valid email address (Ex: johndoe@domain.com).,Bitte geben Sie eine g체ltige E-Mail-Adresse ein (z.B: johndoe@domain.com).,,
+Please enter a valid email address (Ex: johndoe@domain.com).,Bitte geben Sie eine g체ltige E-Mail-Adresse ein (z.B: johndoe@domain.com).,module,Magento_Ui
 1,1,,
 20,20,,
 30,30,,
@@ -6032,8 +6034,6 @@ Please enter a valid date less than or equal to %1 at %2.,Bitte geben Sie ein g�
 Please enter a valid date.,Bitte geben Sie ein korrektes Datum ein.,,
 Please enter a valid day (1-%1).,Bitte einen g체ltigen Tag eingeben (1-%1).,,
 Please enter a valid day (1-%1).,Bitte einen g체ltigen Tag eingeben (1-%1).,lib,lib/web/mage/validation/validation.js
-Please enter a valid email address (Ex: johndoe@domain.com).,Bitte geben Sie eine g체ltige E-Mail-Adresse ein (z.B: johndoe@domain.com).,,
-Please enter a valid email address (Ex: johndoe@domain.com).,Bitte geben Sie eine g체ltige E-Mail-Adresse ein (z.B: johndoe@domain.com).,module,Magento_Ui
 Please enter a valid email address.,Bitte geben Sie eine g체ltige E-Mail-Adresse ein.,,
 "Please enter a valid email address(for example, daniel@x.com).",Bitte geben Sie eine g체ltige E-Mail-Adresse ein (z.B. daniel@x.com),,
 Please enter a valid email.,Bitte geben Sie eine g체ltige E-Mail-Adresse an.,,
